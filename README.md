@@ -21,5 +21,5 @@ Most of my work lives in private repositories. If you want to see something, ask
 
 ## Contact
 
-[work@mrramdn.com](mailto:work@mrramdn.com) · [LinkedIn](https://www.linkedin.com/in/rifki-ramdani) ·
+[work@mrramdn.com](mailto:work@mrramdn.com) · [LinkedIn](https://www.linkedin.com/in/mrramdn) ·
 [Instagram](https://www.instagram.com/mrramdn/)
