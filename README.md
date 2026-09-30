@@ -5,10 +5,11 @@ mostly with Next.js and TypeScript, and write small tools when my own workflow g
 
 ## What I'm working on
 
-- **[mrramdn.com](https://mrramdn.com)**: my portfolio, rebuilt from scratch. It is a one-line placeholder for now.
-- **supervise**: a Claude Code plugin that takes a coding task through plan, implement, verify and review. A small
+- **[mrramdn.com](https://mrramdn.com)**: my portfolio, rebuilt from scratch. One page for now: client work,
+  infrastructure and the tools below.
+- **[supervise](https://mrramdn.com/supervise)**: a Claude Code plugin that takes a coding task through plan, implement, verify and review. A small
   CLI holds the run state and only accepts the work when the project's checks pass and an independent review is
-  clean. Not public yet.
+  clean. The repository is not public yet.
 - **laci**: a file manager for a projects folder. It shows each project's git state, notes and AI agent sessions,
   and moves them together when a folder is moved. Early, Linux only.
 
