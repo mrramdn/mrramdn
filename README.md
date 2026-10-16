@@ -1,26 +1,19 @@
 # Rifki Ramdani
 
-Web developer and Computer Science student at BINUS University. I build websites and web apps for clients,
-mostly with Next.js and TypeScript, and write small tools when my own workflow gets in the way.
+Freelance full-stack developer since June 2025, moving toward cloud infrastructure and forward-deployed work.
+Computer Science student (Cloud Computing track) at BINUS University, in Cimahi, Indonesia.
 
-## What I'm working on
+Open to internships, junior forward-deployed, cloud/DevOps or full-stack roles, and freelance work, remote (UTC+7)
+or onsite in Bandung or Jakarta.
 
-- **[mrramdn.com](https://mrramdn.com)**: my portfolio, rebuilt from scratch. One page for now: client work,
-  infrastructure and the tools below.
-- **[supervise](https://mrramdn.com/supervise)**: a Claude Code plugin that takes a coding task through plan, implement, verify and review. A small
-  CLI holds the run state and only accepts the work when the project's checks pass and an independent review is
-  clean. The repository is not public yet.
-- **laci**: a file manager for a projects folder. It shows each project's git state, notes and AI agent sessions,
-  and moves them together when a folder is moved. Early, Linux only.
+## Work you can open
 
-## What I work with
+- [mrramdn.com](https://www.mrramdn.com): my portfolio.
+- [PetPals](https://petpals.mrramdn.com): a pet adoption app (Flutter, Fastify, PostgreSQL), live with sample data.
+- [laci](https://www.mrramdn.com/en/laci): a Linux app, CLI and 21-tool MCP server that keeps a projects folder
+  with its coding-agent sessions (Rust, Tauri 2).
+- [cloud.mrramdn.com](https://cloud.mrramdn.com): how my server runs.
 
-Next.js, React and TypeScript for most client work. Prisma, headless WordPress, Shopify themes.
-Docker on DigitalOcean and Vercel for hosting. Some Go, Python and Flutter when a project needs them.
+Most of my code is private (client work and coursework). Ask me for a walkthrough.
 
-Most of my work lives in private repositories. If you want to see something, ask.
-
-## Contact
-
-[work@mrramdn.com](mailto:work@mrramdn.com) · [LinkedIn](https://www.linkedin.com/in/mrramdn) ·
-[Instagram](https://www.instagram.com/mrramdn/)
+[work@mrramdn.com](mailto:work@mrramdn.com) · [LinkedIn](https://www.linkedin.com/in/mrramdn)
