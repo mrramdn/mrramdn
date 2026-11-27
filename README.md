@@ -3,8 +3,8 @@
 Freelance full-stack developer since June 2025, moving toward cloud infrastructure and forward-deployed work.
 Computer Science student (Cloud Computing track) at BINUS University, in Bandung, Indonesia.
 
-Open to internships, junior forward-deployed, cloud/DevOps or full-stack roles, and freelance work, remote (UTC+7)
-or onsite in Bandung or Jakarta.
+Open to internships, junior forward-deployed, cloud/DevOps or full-stack roles, and freelance work: full-time from
+February 2027, remote (UTC+7) or onsite anywhere in Indonesia.
 
 ## Work you can open
 
